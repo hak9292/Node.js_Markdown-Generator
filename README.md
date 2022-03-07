@@ -1,11 +1,11 @@
-# title
-  Mozilla Public License 2.0
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
-https://opensource.org/licenses/MPL-2.0
+# A
+  GNU AGPLv3
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+https://www.gnu.org/licenses/agpl-3.0
 
   ## Description
 
-  desc
+  A
 
   ## Table of Contents
 
@@ -16,26 +16,25 @@ https://opensource.org/licenses/MPL-2.0
   - [Tests](#tests)
 
   ## Installation
-
-  inst
-
+  ```
+  A
+  ```
   ## Usage
 
-  usage
+  A
 
   ## Contributing
 
-  contr guide
+  A
 
   ## License
   
-  Mozilla Public License 2.0
+  GNU AGPLv3
 
   ## Tests
-  
-  test
-
+  ```
+  A
+  ```
   ## Questions
 
-  Github: https://github.com/hak9292
-  Email: ak112997@gmail.com
+  If you have any questions about the repo, open an issue or contact me directly at A. You can find more of my work [here](https://github.com/A).
